@@ -1,5 +1,6 @@
 # Freelance-Project-Short-text-classifier
-Classifier to predict the merchant category of the business entity from a credit card transaction
+Classifier to predict the merchant category of the business entity from a credit card transaction.
+The project was for a start-up which is a neo-bank. The requirement from the team was to push the accuracy near 75%.
 
 ## Data Collection:
 We scrape Google search results for the business part in the credit card transaction.
